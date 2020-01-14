@@ -1,4 +1,5 @@
 # The second Git Lab
 ## First team member: <Ian Gant>
 ## Second team member:<Daniel Lipec>
-Die class project. It simulates a die and includes a driver program.
+###Die Project: simulates the rolling of a die with a specified number of sides.
+
