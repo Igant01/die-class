@@ -1,7 +1,7 @@
 /* 
 *      Author: Ian Gant 
 *        Date: 01/14/20 
-* Description: Die abstraction main program 
+* Description: Die abstraction main program. 
 */
 #include <iostream>
 #include <iomanip>
